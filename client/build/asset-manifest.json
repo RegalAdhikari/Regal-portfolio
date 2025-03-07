@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5db9d53.css",
+    "main.js": "/static/js/main.d881a2b0.js",
+    "static/js/453.f9af8ee5.chunk.js": "/static/js/453.f9af8ee5.chunk.js",
+    "static/media/profilephoto.jpg": "/static/media/profilephoto.ff74209d346f6d8d959b.jpg",
+    "static/media/me.jpg": "/static/media/me.d75e2147208e27b5962b.jpg",
+    "static/media/bg-1.jpg": "/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/bg.jpg": "/static/media/bg.f494d9580be6a284f881.jpg",
+    "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/rajani.png": "/static/media/rajani.977676f2fb97e1eeb53d.png",
+    "static/media/sudan.png": "/static/media/sudan.f42555d87f86ca0e0f00.png",
+    "static/media/bal.png": "/static/media/bal.20bbf68222b5f68e8879.png",
+    "static/media/aabishkar.jpg": "/static/media/aabishkar.cb04164c975fae7bef84.jpg",
+    "index.html": "/index.html",
+    "static/media/programming-skills.svg": "/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/static/media/education.10cfa28a40119ebd70cf4fb33fd5934e.svg",
+    "static/media/work-history.svg": "/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.d5db9d53.css.map": "/static/css/main.d5db9d53.css.map",
+    "main.d881a2b0.js.map": "/static/js/main.d881a2b0.js.map",
+    "453.f9af8ee5.chunk.js.map": "/static/js/453.f9af8ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5db9d53.css",
+    "static/js/main.d881a2b0.js"
+  ]
+}
